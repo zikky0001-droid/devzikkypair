@@ -25,6 +25,11 @@ Built by **[DEV ZIKKY TECH](https://github.com/zikky0001-droid)**.
 
 <br><br>
 
+<p align="center">
+    <img src="ss-pair.png" alt="DEV ZIKKY PAIR LOGO" width="500" style="border-radius: 50%; border: 3px solid #55E6FF; box-shadow: 0 0 40px rgba(85,230,255,0.4); margin: 16px;">
+  </p>
+
+  
 <a href="https://dev-zikky-pair.onrender.com/"><img src="https://img.shields.io/badge/OPEN%20WEBSITE-07090d?style=for-the-badge&logo=googlechrome&logoColor=8b7cff" alt="Open website"></a>
 <a href="https://dev-zikky-pair.onrender.com/docs"><img src="https://img.shields.io/badge/API%20DOCUMENTATION-07090d?style=for-the-badge&logo=readthedocs&logoColor=55e6ff" alt="API documentation"></a>
 <a href="https://github.com/zikky0001-droid"><img src="https://img.shields.io/badge/DEVELOPER-07090d?style=for-the-badge&logo=github&logoColor=8b7cff" alt="Developer GitHub"></a>
